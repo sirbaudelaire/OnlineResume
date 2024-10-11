@@ -1,4 +1,3 @@
-import React from "react";
 import navbar from "../Desktop/Navbar.module.css";
 import { Box, Text, UnstyledButton, Divider } from "@mantine/core";
 

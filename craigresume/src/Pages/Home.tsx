@@ -1,4 +1,3 @@
-import React from "react";
 import home from "../Pages/Home.module.css";
 import Navbar from "../Components/Desktop/Navbar";
 import { Box } from "@mantine/core";
