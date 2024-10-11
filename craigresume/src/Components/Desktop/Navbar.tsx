@@ -8,7 +8,7 @@ export default function Navbar() {
       <Box display="flex" className={navbar.container}>
         <Box>
           <Text size="xl" className={navbar.logoName}>
-            Craig Gregorio
+            Online Resume
           </Text>
         </Box>
         <Box className={navbar.navItems}>
